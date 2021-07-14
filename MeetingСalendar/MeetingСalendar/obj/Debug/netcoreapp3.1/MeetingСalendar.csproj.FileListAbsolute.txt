@@ -1,0 +1,13 @@
+D:\Directum\MeetingСalendar\MeetingСalendar\bin\Debug\netcoreapp3.1\MeetingСalendar.exe
+D:\Directum\MeetingСalendar\MeetingСalendar\bin\Debug\netcoreapp3.1\MeetingСalendar.deps.json
+D:\Directum\MeetingСalendar\MeetingСalendar\bin\Debug\netcoreapp3.1\MeetingСalendar.runtimeconfig.json
+D:\Directum\MeetingСalendar\MeetingСalendar\bin\Debug\netcoreapp3.1\MeetingСalendar.runtimeconfig.dev.json
+D:\Directum\MeetingСalendar\MeetingСalendar\bin\Debug\netcoreapp3.1\MeetingСalendar.dll
+D:\Directum\MeetingСalendar\MeetingСalendar\bin\Debug\netcoreapp3.1\MeetingСalendar.pdb
+D:\Directum\MeetingСalendar\MeetingСalendar\obj\Debug\netcoreapp3.1\MeetingСalendar.csprojAssemblyReference.cache
+D:\Directum\MeetingСalendar\MeetingСalendar\obj\Debug\netcoreapp3.1\MeetingСalendar.AssemblyInfoInputs.cache
+D:\Directum\MeetingСalendar\MeetingСalendar\obj\Debug\netcoreapp3.1\MeetingСalendar.AssemblyInfo.cs
+D:\Directum\MeetingСalendar\MeetingСalendar\obj\Debug\netcoreapp3.1\MeetingСalendar.csproj.CoreCompileInputs.cache
+D:\Directum\MeetingСalendar\MeetingСalendar\obj\Debug\netcoreapp3.1\MeetingСalendar.dll
+D:\Directum\MeetingСalendar\MeetingСalendar\obj\Debug\netcoreapp3.1\MeetingСalendar.pdb
+D:\Directum\MeetingСalendar\MeetingСalendar\obj\Debug\netcoreapp3.1\MeetingСalendar.genruntimeconfig.cache
